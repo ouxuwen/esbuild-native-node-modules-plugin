@@ -1,0 +1,26 @@
+{
+  "name": "esbuild-native-node-modules-plugin",
+  "version": "1.0.0",
+  "description": "A plugin for esbuild to load native node modules",
+  "main": "native-node-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc --project tsconfig.json"
+  },
+  "files": ["native-node-plugin.js"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouxuwen/esbuild-native-node-modules-plugin.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ouxuwen/esbuild-native-node-modules-plugin/issues"
+  },
+  "homepage": "https://github.com/ouxuwen/esbuild-native-node-modules-plugin#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.41",
+    "esbuild": "^0.14.43",
+    "typescript": "^4.7.3"
+  }
+}
