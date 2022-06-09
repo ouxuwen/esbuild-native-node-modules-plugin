@@ -1,6 +1,6 @@
 {
   "name": "esbuild-native-node-modules-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for esbuild to load native node modules",
   "main": "native-node-plugin.js",
   "scripts": {
@@ -22,5 +22,6 @@
     "@types/node": "^17.0.41",
     "esbuild": "^0.14.43",
     "typescript": "^4.7.3"
-  }
+  },
+  "keywords": ["esbuild", "plugin", "native node modules", "native node", ".node", "node addon"]
 }

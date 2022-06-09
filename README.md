@@ -1,5 +1,5 @@
 # esbuild-native-node-modules-plugin
-A plugin for esbuild to load native node modules
+A plugin for esbuild to load native node modules, node-loader for esbuld, support `.node` file modules.
 
 # install
 ``` javascript
