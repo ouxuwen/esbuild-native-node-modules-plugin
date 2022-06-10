@@ -1,6 +1,6 @@
 {
   "name": "esbuild-native-node-modules-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A plugin for esbuild to load native node modules",
   "main": "native-node-plugin.js",
   "types": "native-node-plugin.ts",
